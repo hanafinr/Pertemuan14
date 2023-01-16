@@ -7,6 +7,7 @@
 ![latihan14](https://user-images.githubusercontent.com/115903342/212723910-72b71b49-f25b-4057-8edf-57f09c7da6f3.PNG)
 
 ## Code source
+
 txt = 'Hello World'
 
 #Menghitung jumlah karakter
