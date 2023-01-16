@@ -10,7 +10,7 @@
 ### Code source
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/115903342/212727561-5873ee03-df78-476f-8d29-7bf71ea40342.png)
-
+![Screenshot (74)](https://user-images.githubusercontent.com/115903342/212741320-4f9f68ff-c4f8-4c31-84f1-cc8fc8e413b5.png)
 
 ### outputnya
 
